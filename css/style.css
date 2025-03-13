@@ -131,13 +131,8 @@ figure:hover .articleimglg {
     font-size: 18px;
 }
 
-.foto1:hover .articleimg,
-.foto2:hover .articleimglg,
-.foto3:hover .articleimg,
-.foto4:hover .articleimg,
-.foto5:hover .articleimg,
-.foto6:hover .articleimglg,
-.foto7:hover .articleimg {
+.item-pequeño:hover .articleimg,
+.item-largo:hover .articleimglg {
     top: 5;
 }
 
